@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **studying computer engineer at Duzce University.**
 
-- 🌱 I’m currently learning **.NET Core and C#**
+- 🌱 I’m currently learning **Spring Boot and Java**
 
 - ⚡ Fun fact: **I like to improve myself**
 
